@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Air Race", "Air Race.csproj", "{D41FCFDD-66E8-6E35-1E35-C83BF43E67B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Air Race.Plugins", "Air Race.Plugins.csproj", "{60C82D88-1491-15BC-6577-35B6A113A4CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D41FCFDD-66E8-6E35-1E35-C83BF43E67B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D41FCFDD-66E8-6E35-1E35-C83BF43E67B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D41FCFDD-66E8-6E35-1E35-C83BF43E67B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D41FCFDD-66E8-6E35-1E35-C83BF43E67B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60C82D88-1491-15BC-6577-35B6A113A4CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60C82D88-1491-15BC-6577-35B6A113A4CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60C82D88-1491-15BC-6577-35B6A113A4CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60C82D88-1491-15BC-6577-35B6A113A4CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

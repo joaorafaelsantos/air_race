@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: 55ee7384dd169a7429c0c6ad8e49f10e
+timeCreated: 1515603931
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Base
+    100002: Base_2
+    100004: Base_3
+    100006: CINEMA_4D_Editor
+    100008: Cone
+    100010: Cone_1
+    100012: Cone_2
+    100014: Cone_3
+    100016: Cone_4
+    100018: Pylons
+    100020: //RootNode
+    100022: Pylons_1
+    100024: Pylons_2
+    100026: Pylons_3
+    100028: Pylons__2
+    400000: Base
+    400002: Base_2
+    400004: Base_3
+    400006: CINEMA_4D_Editor
+    400008: Cone
+    400010: Cone_1
+    400012: Cone_2
+    400014: Cone_3
+    400016: Cone_4
+    400018: Pylons
+    400020: //RootNode
+    400022: Pylons_1
+    400024: Pylons_2
+    400026: Pylons_3
+    400028: Pylons__2
+    2000000: CINEMA_4D_Editor
+    2300000: Base
+    2300002: Base_2
+    2300004: Base_3
+    2300006: Cone
+    2300008: Cone_1
+    2300010: Cone_2
+    2300012: Cone_3
+    2300014: Cone_4
+    3300000: Base
+    3300002: Base_2
+    3300004: Base_3
+    3300006: Cone
+    3300008: Cone_1
+    3300010: Cone_2
+    3300012: Cone_3
+    3300014: Cone_4
+    4300000: Cone
+    4300002: Base
+    4300004: Cone_2
+    4300006: Cone_3
+    4300008: Base_2
+    4300010: Cone_1
+    4300012: Cone_4
+    4300014: Base_3
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Color
+    second: {fileID: 2100000, guid: ca37eb76f9d14994ab73756d2032c538, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GCS_LOGO
+    second: {fileID: 2100000, guid: 904a39d7ff25f934db1d45ab93f85c82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 1439fdc061475484c9e37ee6d18d576f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red_Pylon
+    second: {fileID: 2100000, guid: 640511a8cb4267042b14fb6e31231d3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White_Pylon
+    second: {fileID: 2100000, guid: 6d4f5d6cf07206b4f8d2ef2795aa7cd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yellow_Pylon
+    second: {fileID: 2100000, guid: 9d4b49e42d1eacd4b9cd91710f1c4a0b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
